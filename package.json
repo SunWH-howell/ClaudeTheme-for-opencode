@@ -1,0 +1,46 @@
+{
+  "name": "claude-code-theme",
+  "version": "1.0.0",
+  "description": "Claude Code warm editorial desktop appearance plugin for OpenCode V2 (Claude Clay & Slate palettes, component micro-styling, and live Settings page).",
+  "author": "SunWH-howell <sunwh0526@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunWH-howell/ClaudeTheme-for-opencode.git"
+  },
+  "homepage": "https://github.com/SunWH-howell/ClaudeTheme-for-opencode#readme",
+  "bugs": {
+    "url": "https://github.com/SunWH-howell/ClaudeTheme-for-opencode/issues"
+  },
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "opencode-theme",
+    "claude",
+    "claude-code",
+    "anthropic",
+    "theme",
+    "gui-plugin"
+  ],
+  "exports": {
+    "./gui-experimental": "./dist/gui-experimental.cjs"
+  },
+  "files": [
+    "dist",
+    "themes",
+    "src",
+    "scripts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "node ./scripts/build.mjs"
+  },
+  "peerDependencies": {
+    "@opencode/plugin": "^2.2.1",
+    "effect": "*",
+    "solid-js": "^1.9.0"
+  }
+}

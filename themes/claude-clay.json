@@ -1,0 +1,67 @@
+{
+  "$schema": "https://opencode.ai/desktop-theme.json",
+  "name": "Claude Clay",
+  "id": "claude-clay",
+  "light": {
+    "seeds": {
+      "neutral": "#87867f",
+      "primary": "#d97757",
+      "success": "#4d8553",
+      "warning": "#c77d24",
+      "error": "#b53333",
+      "info": "#4a769e",
+      "interactive": "#d97757",
+      "diffAdd": "#4d8553",
+      "diffDelete": "#b53333"
+    },
+    "overrides": {
+      "background-base": "#faf9f5",
+      "background-weak": "#f5f4ed",
+      "background-strong": "#edece3",
+      "background-stronger": "#ffffff",
+      "surface-base": "#f5f4ed",
+      "surface-raised-base": "#ffffff",
+      "surface-inset-base": "#f0eee6",
+      "text-base": "#3d3929",
+      "text-strong": "#141413",
+      "text-weak": "#73726c",
+      "text-weaker": "#9c9a92",
+      "syntax-string": "#a6593a",
+      "syntax-keyword": "#b85435",
+      "syntax-primitive": "#3b6e8c",
+      "syntax-type": "#8a5a36",
+      "syntax-constant": "#7c5295"
+    }
+  },
+  "dark": {
+    "seeds": {
+      "neutral": "#87867f",
+      "primary": "#d97757",
+      "success": "#639962",
+      "warning": "#d6933a",
+      "error": "#d95f59",
+      "info": "#6998c2",
+      "interactive": "#d97757",
+      "diffAdd": "#639962",
+      "diffDelete": "#d95f59"
+    },
+    "overrides": {
+      "background-base": "#262624",
+      "background-weak": "#1e1e1c",
+      "background-strong": "#171716",
+      "background-stronger": "#141413",
+      "surface-base": "#2c2c29",
+      "surface-raised-base": "#30302d",
+      "surface-inset-base": "#1c1b1a",
+      "text-base": "#e8e6dc",
+      "text-strong": "#faf9f5",
+      "text-weak": "#b0aea5",
+      "text-weaker": "#87867f",
+      "syntax-string": "#d4a27f",
+      "syntax-keyword": "#d97757",
+      "syntax-primitive": "#7aa8c7",
+      "syntax-type": "#e0b36e",
+      "syntax-constant": "#b592c9"
+    }
+  }
+}
