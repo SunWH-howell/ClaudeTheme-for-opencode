@@ -34,7 +34,8 @@
     "scripts",
     "README.md",
     "README_CN.md",
-    "LICENSE"
+    "LICENSE",
+    "assets"
   ],
   "scripts": {
     "build": "node ./scripts/build.mjs"

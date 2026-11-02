@@ -8,6 +8,14 @@ Designed around Anthropic's signature **Claude Clay (`#262624` warm coal / `#FAF
 
 ---
 
+## 📸 Preview
+
+<div align="center">
+  <img src="./assets/preview.jpg" alt="ClaudeCodeTheme Preview" width="100%" />
+</div>
+
+---
+
 ## ✨ Features
 
 1. **Dual-Layer Color Engine (`L1`)**

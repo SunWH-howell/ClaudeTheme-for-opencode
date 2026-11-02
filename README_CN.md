@@ -8,6 +8,14 @@
 
 ---
 
+## 📸 效果预览
+
+<div align="center">
+  <img src="./assets/preview.jpg" alt="ClaudeCodeTheme 效果预览" width="100%" />
+</div>
+
+---
+
 ## ✨ 核心特性
 
 1. **V1 + V2 双层 OKLCH 色彩引擎 (`L1`)**
