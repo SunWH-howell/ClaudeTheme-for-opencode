@@ -1,5 +1,7 @@
 # Claude Code Theme for OpenCode (`claude-code-theme`)
 
+**English** | **[简体中文](./README_CN.md)**
+
 Anthropic **Claude Code** / **Claude.ai** warm editorial appearance plugin for **OpenCode Desktop V2 (`v2.2.1+`)** and **OpenCode TUI**.
 
 Designed around Anthropic's signature **Claude Clay (`#262624` warm coal / `#FAF9F5` parchment paper / `#D97757` terracotta clay)** palette, featuring a dual-layer V1 + V2 OKLCH token engine, signature component micro-styling, and a dedicated reactive Settings page.
